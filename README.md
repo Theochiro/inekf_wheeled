@@ -37,7 +37,7 @@ To run the Matlab code, run `main.m`for parking lot environment
 
 ## Implementations
 
-* See the [report] (upcoming soon!) for detailed implementations.
+* See the [report](ROB_530_Team_13_Project.pdf) for detailed implementations.
 
 ## Results
 
